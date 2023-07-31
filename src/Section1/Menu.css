@@ -1,0 +1,13 @@
+.bo{
+    background-color: rgb(41, 40, 40);
+    color: white;
+    border: none;
+    outline: none;
+}
+.our{
+    color: white;
+}
+.our:hover{
+
+    color: orange;
+}

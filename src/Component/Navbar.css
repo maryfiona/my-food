@@ -1,0 +1,34 @@
+.anik{
+ 
+font-size: 40px;
+font-weight: 500;
+color: #FE8503;
+font-family: cursive;
+}
+.na{
+    background-color: rgb(63, 62, 62);
+}
+.line{
+    position: relative;
+    left: 30em;
+    
+}
+
+
+
+.mr{
+    position: relative;
+    right: 4em;
+    font-size: 1.5em;
+    color: white;
+}
+.ml{
+    position: relative;
+    right: 2em;
+    width: 6em;
+    height: 2em;
+    background-color: #FE8503;
+    border-radius: 2em;
+    border: none;
+    outline: none;
+}

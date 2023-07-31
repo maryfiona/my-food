@@ -1,0 +1,22 @@
+.class{
+    padding: 6em;
+    color: white;
+}
+.order{
+    background-color: #FE8503;
+    width: 6em;
+    height: 3em;
+    border: none;
+    outline: none;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    
+}
+.in{
+    width: 14em;
+    height: 3em;
+    border: none;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    
+}
