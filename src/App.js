@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './Component/Navbar';
 import Menu from './Section1/Menu';
-import Local from './Section1/Local';
+// import Local from './Section1/Local';
 import GoodFood from './Component/GoodFood';
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
     <Navbar />
     <GoodFood />
     <Menu />
-    <Local />
+    {/* <Local /> */}
 
 
 
