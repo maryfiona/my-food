@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import Navbar from './Component/Navbar';
 import Menu from './Section1/Menu';
-// import Local from './Section1/Local';
 import GoodFood from './Component/GoodFood';
+import Inspire from './Section2/Inspire'
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
     <Navbar />
     <GoodFood />
     <Menu />
-    {/* <Local /> */}
+    < Inspire />
 
 
 
