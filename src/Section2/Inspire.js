@@ -5,10 +5,10 @@ import image1 from '../Assets/image1.png'
 const Inspire = () => {
     return(
         <React.Fragment>
-            {/* <div className="na pt">
+            <div className="na pt">
                 <h1 className="our text-center">Inspiration For your First Order</h1>
                 <div className="container pt-5">
-                    <div className="row"> */}
+                    <div className="row">
                         <div className="col-md-3">
                         <button className="bo">
                         <img src={image1} alt="img1" />
